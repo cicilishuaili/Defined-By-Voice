@@ -29,4 +29,4 @@ Separately, the task of "gendered words" can be tackled:
 * Use words that are perceived categorically skewed as one gender in studies (e.g. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.8919&rep=rep1&type=pdf)
 * Use words that imply gender (e.g. queen, aunt, bachlor, colt)
 
-I look forward to learning various useful tools concerning classification, NLP, large scale processing of various forms of digit media.
+I look forward to learning various useful tools concerning classification, NLP, large scale processing of various forms of digit media. The project can be event extended to other languages if suitable data sources are found, and may prove easier since many languages have grammatical gender, naturally lending itself to a gender category.
