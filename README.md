@@ -25,7 +25,7 @@ To this end, Kaggle has a good starting point for [predicting gender based on vo
 
 Separately, the task of "gendered words" can be tackled:
 
-* Vectorize the words and quantify bias by distance from "he"/"she" algorithmically
+* Vectorize the words and quantify bias by distance from "he"/"she" algorithmically; collocation frequencies of words with "he"/"she"
 * Use words that are perceived categorically skewed as one gender in studies (e.g. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.8919&rep=rep1&type=pdf)
 * Use words that imply gender (e.g. queen, aunt, bachlor, colt)
 
